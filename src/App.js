@@ -1,11 +1,11 @@
 import './App.css';
 //import 'bootstrap/dist/css/bootstrap.min.css';
-import Home from './Sections/Home/Home';
-import About from './Sections/About/About';
-import Header from './Sections/Header/Header';
-import Contact from './Sections/Contact/Contact';
-import Project from './Sections/Project/Project';
-import Footer from './Sections/Footer/Footer';
+import Home from './sections/Home/Home';
+import About from './sections/About/About';
+import Header from './sections/Header/Header';
+import Contact from './sections/Contact/Contact';
+import Project from './sections/Project/Project';
+import Footer from './sections/Footer/Footer';
 
 function App() {
   return (
