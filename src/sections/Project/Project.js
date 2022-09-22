@@ -18,7 +18,6 @@ function Project() {
             <div class="grid pjt1">
               <a
                 href="https://hopeful-kilby-c97d5a.netlify.app/"
-                target="_blank"
               >
                 <div class="grid-img">
                   <img
@@ -35,7 +34,6 @@ function Project() {
             <div class="grid pjt2">
               <a
                 href="https://hopeful-hawking-494e7d.netlify.app/"
-                target="_blank"
               >
                 <div class="grid-img">
                   <img
@@ -63,7 +61,7 @@ function Project() {
             </a>
           </div> */}
             <div class="grid pjt4">
-              <a href="https://ekh6e8.csb.app/" target="_blank">
+              <a href="https://ekh6e8.csb.app/">
                 <div class="grid-img">
                   <img
                     src="https://rakshithkotian-portfolio.netlify.app/images/todo.png"
@@ -95,7 +93,7 @@ function Project() {
             </a>
           </div> */}
             <div class="grid pjt6">
-              <a href="https://g5g17l.csb.app/" target="_blank">
+              <a href="https://g5g17l.csb.app/">
                 <div class="grid-img">
                   <img
                     src="https://rakshithkotian-portfolio.netlify.app/images/website.png"

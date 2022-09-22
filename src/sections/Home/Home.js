@@ -4,7 +4,7 @@ import './Home.css';
 function Home() {
   return (
     <>
-      <section class="home-hero">
+      <section class="home-hero" id='home'>
         <div class="home-hero__content">
           <h1 class="heading-primary">
             Hello, I'm <br /> <span class="hero-name">Mugesh Samraj</span>
